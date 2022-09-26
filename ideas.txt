@@ -1,0 +1,16 @@
+// This is a list of ideas with the most recent ideas on top. 
+// Ideas that have been realized are marked with a "D:"
+
+#2022-09-26
+- Set up communication 
+  - git repositories 
+    - ui 
+    - contracts
+    - meta
+      - roles
+      - vision
+  - telegram group
+  - request email addrs
+- Create devpost project
+- D: Set up a team
+  
