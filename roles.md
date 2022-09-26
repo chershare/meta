@@ -8,7 +8,7 @@ Background in Azure Cloud stuff.
 Motivation: learn about web3. 
 
 Focus maybe on 
-- media upload infrastructure (photos and videos of ressources). 
+- media upload infrastructure (photos and videos of resources). 
 - indexing data
 
 From Bulgaria, based in Amsterdam right now. 

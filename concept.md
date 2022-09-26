@@ -1,11 +1,11 @@
 ## Vision 
   - make crypto useful
-    - allow people to earn crypto with their ressoures by sharing them
-    - allow people to use their crypto by renting ressources
+    - allow people to earn crypto with their resoures by sharing them
+    - allow people to use their crypto by renting resources
 
 ## Share, Book, Prove
 - Share Ressources
-  - when creating a ressource, allow image / video upload
+  - when creating a resource, allow image / video upload
     - we pay? 
   - pricing model 
     - select
