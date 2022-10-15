@@ -1,0 +1,53 @@
+Intro 
+
+- product "chershare" 
+  - it's a market place for renting all kinds of things "resources"
+    - e.g. 
+      - rooms
+      - cars
+      - bikes
+      - tools
+  - airbnb for everything 
+  - on chain
+
+- a market matches 2 sides
+  - resource providers 
+  - resource consumers
+
+- MVP (for the hackathon) 
+  - resource providers can enter a resource 
+    - images
+    - description
+    - pricing model 
+      - and parameters 
+    - listed / non-listed, whitelists, blacklists
+    - manage resources
+
+  - resource consumers can 
+    - search resources
+    - book resources
+    - manage bookings
+
+- Architecture 
+  - smart contracts 
+    - resource descripti
+    - booking reservations
+    - payments
+  - web app ui
+    - mobile first
+  - indexer / server 
+    - allows searching for resources
+    - stores media such as resource photots
+
+- Demo
+
+- Workflow
+  - whenever someone wants to do something, speak with Felix
+    - bring your own ideas or
+    - Felix will be happy to propose something suitable to work on 
+  - create a new branch for the feature
+  - merge request to master branch
+
+----
+
+- Preferences already?

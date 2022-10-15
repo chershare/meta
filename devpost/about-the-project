@@ -1,0 +1,30 @@
+## Inspiration
+I have a music room that i share with friends. 
+I am paying the rent for the room and I need to collect a fair financial contribution from everyone to be able to maintain it. 
+My friends should make their contribution based on how much they use the room. 
+Let's build a booking system that makes it really easy and fair to use the room. 
+
+## What it does
+It allows people to offer their resources for rental in order to earn crypto. 
+It allows people to rent some resources and pay with crypto. 
+Resources can be
+- rooms (e.g. for living, working, celebrating) 
+- machines or tools (e.g. a power drill or a car) 
+- event access (e.g. concerts, festivals) 
+
+## How we built it
+We build a mobile first web app with vue. 
+Contracts are being developed in Rust on NEAR. 
+Some infrastructure for media storage (technology to be decided, python maybe?). 
+
+## Challenges we ran into
+None yet
+
+## Accomplishments that we're proud of
+None yet 
+
+## What we learned
+Nothing yet 
+
+## What's next for share
+Being built

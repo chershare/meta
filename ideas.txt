@@ -2,6 +2,14 @@
 // Ideas that have been realized are marked with a "D:"
 
 #2022-09-26
+
+- Maybe start web app dev without any ui work
+
+- Optionally immedeate booking vs. waiting for confirmation
+- Allow resource sharers to 
+  - whitelist and 
+  - blacklist people
+
 - Set up communication 
   - git repositories 
     - ui 
