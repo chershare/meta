@@ -20,22 +20,26 @@ Intro
     - description
     - pricing model 
       - and parameters 
+      - currency (NEAR currency)
     - listed / non-listed, whitelists, blacklists
+    - resource availability
     - manage resources
+      - dashboard (bookings) 
 
   - resource consumers can 
     - search resources
     - book resources
     - manage bookings
+      - cancel 
 
 - Architecture 
   - smart contracts 
-    - resource descripti
+    - resource description
     - booking reservations
     - payments
   - web app ui
     - mobile first
-  - indexer / server 
+  - indexer / server  "mediaserver"
     - allows searching for resources
     - stores media such as resource photots
 
@@ -48,6 +52,10 @@ Intro
   - create a new branch for the feature
   - merge request to master branch
 
+- meta repository
+  - these meeting notes can be found there
+
 ----
 
 - Preferences already?
+
