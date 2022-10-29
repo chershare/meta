@@ -1,6 +1,41 @@
 // This is a list of ideas with the most recent ideas on top. 
 // Ideas that have been realized are marked with a "D:"
 
+Hackathon Submission 
+- 3 seconds of team faces 
+  - Video call record, 
+  - 2 clients
+- Slides where useful
+- Walkthorughs: speed up video to fit in the 3 minutes
+  - Talk over later
+
+#2022-10-29 Hot phase
+- 
+
+#2022-10-27 Month later
+- Create ressource on chain
+  - Create create_ressource function 
+  - Call it from the web app
+  - See it in the indexer output
+  - Write it to a database
+    - D: Choose DB
+    - D(yes): SQLite? 
+      - D(yes): does it support multiple clients? 
+    - node-sqlite3
+  - (media server) 
+    - Read it from the api server
+    - List it in a search_resources api method
+      - owner
+      - search for tags
+        - table with tags: 2 columns
+          - tag: 
+          - resource: 
+        - x times cross product for x tags
+          - where tag 0 = tag 0, tag 1 = tag 1, etc. 
+
+- Create booking on chain
+  - similar like ressources. 
+
 #2022-09-26
 
 - Maybe start web app dev without any ui work
