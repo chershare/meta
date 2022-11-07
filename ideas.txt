@@ -9,8 +9,14 @@ Hackathon Submission
 - Walkthorughs: speed up video to fit in the 3 minutes
   - Talk over later
 
+#2022-11-06
+- Add geocoding for resource creation and resource search 
+  - xyz for resources 
+  - request: https://www.npmjs.com/package/nominatim-js
+
+- switch to big ints
+
 #2022-10-29 Hot phase
-- 
 
 #2022-10-27 Month later
 - Create ressource on chain
@@ -35,6 +41,7 @@ Hackathon Submission
 
 - Create booking on chain
   - similar like ressources. 
+    - Well, actually quite different, because no contract factory
 
 #2022-09-26
 
